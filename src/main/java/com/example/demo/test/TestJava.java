@@ -7,6 +7,6 @@ package com.example.demo.test;
 public class TestJava {
 
     public static void main(String[] args) {
-        System.out.println("测试Java代码");
+        System.out.println("cxs修改代码");
     }
 }
