@@ -8,5 +8,6 @@ public class TestJava {
 
     public static void main(String[] args) {
         System.out.println("cxs第二次修改代码");
+        System.out.println("万铭第二次修改代码");
     }
 }
