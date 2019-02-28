@@ -15,8 +15,12 @@ public class TestJava {
         System.out.println("万铭第二次修改代码");
         System.out.println("万铭第二次修改代码");
         System.out.println("万铭第二次修改代码");
+        System.out.println("4第二次修改代码");
+        System.out.println("万4第二次修改代码");
+        System.out.println("5二次修改代码");
         System.out.println("万铭第二次修改代码");
-        System.out.println("万铭第二次修改代码");
+        System.out.println("万6第二次修改代码");
+        System.out.println("7第二次修改代码");
         System.out.println("cxs第二次修改代码");
         System.out.println("cxs第二次修改代码");
         System.out.println("cxs第二次修改代码");
